@@ -13,7 +13,7 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "GuruBot~VtzWGdar",
+      "description": "GuruBot~R5FUSWZL",
       "required": true,
       "value": ""
     },
@@ -44,7 +44,7 @@
     },
     "autoRead": {
       "description": "make it true if you want bot to read messages",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "antidelete": {
